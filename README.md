@@ -14,6 +14,7 @@ Ben 18 yaşındayım ve Denizli'denim. Torul Meslek Yüksekokulu'nda Yazılım G
 
 ### 🚀 Öne Çıkan Proje
 #### **[TorulMYOHastane](https://github.com/Quadraxx/TorulMYOHastane)**
+#### **[Flask_note_tracker](https://github.com/Quadraxx/flask-note-tracker)**
 Python (Flask) ve SQL Server kullanarak geliştirdiğim, şifre hashleme, dinamik grafikler ve çıktıya hazır reçete raporlaması içeren tam kapsamlı bir Hastane Yönetim Sistemi.
 
 ---
