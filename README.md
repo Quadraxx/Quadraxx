@@ -1,16 +1,21 @@
-## Hi there 👋
+# Merhaba, Ben Hüseyin Akın! 👋
 
-<!--
-**Quadraxx/Quadraxx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨‍💻 Hakkımda
+Ben 18 yaşındayım ve Denizli'denim. Torul Meslek Yüksekokulu'nda Yazılım Geliştirme alanında kendimi geliştiriyorum. Web projeleri ve veritabanı yönetimine özel ilgi duyuyorum.
 
-Here are some ideas to get you started:
+### 🛠️ Yeteneklerim
+* **Programlama Dilleri:** Python, C#
+* **Web:** HTML, CSS, JavaScript, Bootstrap
+* **Framework:** Flask
+* **Veritabanı:** Microsoft SQL Server, PostgreSQL
+* **Güvenlik:** Siber Güvenlik Temelleri ve Penetrasyon Testleri (İlgi Alanı)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 Öne Çıkan Proje
+#### **[TorulMYOHastane](https://github.com/Quadraxx/TorulMYOHastane)**
+Python (Flask) ve SQL Server kullanarak geliştirdiğim, şifre hashleme, dinamik grafikler ve çıktıya hazır reçete raporlaması içeren tam kapsamlı bir Hastane Yönetim Sistemi.
+
+---
+
+<p align="center">Sürekli öğreniyor ve kodluyorum.</p>
