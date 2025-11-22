@@ -11,7 +11,7 @@
 
 ### 🌟 Beni Tanıyın
 <p align="left">
-Ben **18 yaşındayım** ve güneşli **Denizli**'den geliyorum ☀️. Kariyerimi **Yazılım Geliştirme** alanına adadım ve eğitimime Gümüşhane Üniversitesi **Torul Meslek Yüksekokulu**'nda devam ediyorum. Temel odağım; **Flask** ile güçlü backend mimarileri kurmak, **Microsoft SQL Server** ile veri güvenliğini sağlamak ve projelerime profesyonel bir kurumsal kimlik kazandırmaktır. 
+Ben **18 yaşındayım** ve güneşli **Denizli**'den geliyorum ☀️. Kariyerimi **Yazılım Geliştirme** alanına adadım ve eğitimime Gümüşhane Üniversitesi **Torul Meslek Yüksekokulu**'nda devam ediyorum. Temel odağım; **Flask** ile güçlü backend mimarileri kurmak, **Microsoft SQL Server** ile kurumsal veri güvenliğini sağlamak ve projelerime profesyonel bir kurumsal kimlik kazandırmaktır. 
 </p>
 
 ---
@@ -79,6 +79,19 @@ Projelerimi hayata geçirirken kullandığım temel teknolojiler ve yetkinlikler
 
 ---
 
+<h3 align="center">🗓️ Yarınki Plan (Pazar, 23 Kasım 2025)</h3>
+
+<p align="left">
+Yarınki gelişim ve kodlama hedeflerim:
+</p>
+
+* **1. Flask/MS SQL:** `TorulMYOHastane` projesine kullanıcı giriş/çıkışlarını takip eden detaylı bir log (kayıt) tablosu entegre etmek. 💾
+* **2. Güvenlik:** Şifre güvenliği için Werkzeug kütüphanesindeki hash doğrulama (`check_password_hash`) mekanizmasını derinlemesine incelemek. 🔒
+* **3. Görselleştirme:** Chart.js kullanarak, Flask backend'den gelen dinamik verilerle (Örn: Haftalık işlem sayısı) yeni bir dashboard grafiği oluşturmak. 📊
+* **4. Kariyer:** Proje ve yeteneklerime uygun olarak LinkedIn profilimi profesyonelce güncellemek. 💼
+
+---
+
 <h3 align="center">🌟 GitHub İstatistiklerim</h3>
 
 <p align="center">
@@ -87,12 +100,6 @@ Projelerimi hayata geçirirken kullandığım temel teknolojiler ve yetkinlikler
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Quadraxx&layout=compact&locale=tr&theme=radical&hide=html" alt="Hüseyin Akın En Çok Kullanılan Diller" />
-</p>
-
-<h3 align="center">📅 Aktivite Takvimi</h3>
-
-<p align="center">
-  <img src="https://github-calendar.xyz/calendar.svg?username=Quadraxx&theme=dark&area=true&panel=dark" alt="Hüseyin Akın GitHub Aktivite Takvimi" />
 </p>
 
 ---
