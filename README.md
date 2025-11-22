@@ -1,14 +1,22 @@
-# Merhaba, Ben Hüseyin Akın! 👋
+# Merhaba, Ben Hüseyin Akın! 👋 Yazılım Geliştirici Adayı
 
-### 👨‍💻 Hakkımda
-Ben 18 yaşındayım ve Denizli'denim. Torul Meslek Yüksekokulu'nda Yazılım Geliştirme alanında kendimi geliştiriyorum. Web projeleri ve veritabanı yönetimine özel ilgi duyuyorum.
+### 📍 Profil Özeti
+Ben **18 yaşındayım** ve memleketim **Denizli**. Eğitimime özel bir ilgi duyduğum **Yazılım Geliştirme** alanında, Gümüşhane Üniversitesi **Torul Meslek Yüksekokulu**'nda devam ediyorum. Kariyerimi **Web Uygulama Geliştirme** ve **Kurumsal Veritabanı Yönetimi** üzerine odaklamak istiyorum.
 
-### 🛠️ Yeteneklerim
-* **Programlama Dilleri:** Python, C#
-* **Web:** HTML, CSS, JavaScript, Bootstrap
-* **Framework:** Flask
-* **Veritabanı:** Microsoft SQL Server, PostgreSQL
-* **Güvenlik:** Siber Güvenlik Temelleri ve Penetrasyon Testleri (İlgi Alanı)
+---
+
+### 🛠️ Yetkinliklerim (Skills)
+Programlama dillerinden veritabanı yönetim sistemlerine kadar geniş bir yelpazede yetenek sahibiyim.
+
+* **Programlama Dilleri:** **Python** (Temel dil), **C#**
+* **Web Teknolojileri:** **HTML5**, **CSS3**, **JavaScript**, **Bootstrap 5** (Responsive Tasarım)
+* **Backend & Framework:** **Flask** (Python)
+* **Veritabanı Yönetimi:** **Microsoft SQL Server**, **PostgreSQL**
+* **Veri Görselleştirme:** **Matplotlib** (Python), **Chart.js** (JavaScript)
+* **Oyun Geliştirme Temelleri:** **Pygame**
+* **Güvenlik:** **Siber Güvenlik Temelleri**, Penetrasyon Testleri (İlgi Alanı), **Werkzeug.security** ile Şifreleme (scrypt)
+
+---
 
 <h3>⚙️ Temel Teknoloji Yığını (Tech Stack)</h3>
 
@@ -34,11 +42,22 @@ Ben 18 yaşındayım ve Denizli'denim. Torul Meslek Yüksekokulu'nda Yazılım G
 
 ---
 
-### 🚀 Öne Çıkan Proje
-#### **[TorulMYOHastane](https://github.com/Quadraxx/TorulMYOHastane)**
-#### **[Flask_note_tracker](https://github.com/Quadraxx/flask-note-tracker)**
-Python (Flask) ve SQL Server kullanarak geliştirdiğim, şifre hashleme, dinamik grafikler ve çıktıya hazır reçete raporlaması içeren tam kapsamlı bir Hastane Yönetim Sistemi.
+### 🚀 Öne Çıkan Projelerim
+
+#### **1. TorulMYOHastane (Tam Kapsamlı Yönetim Sistemi)**
+* **Açıklama:** Python (Flask) ve **Microsoft SQL Server** kullanarak geliştirdiğim, kullanıcı yetkilendirmesi, şifre hashleme (**scrypt**), **dinamik grafikler** (Chart.js) ve çıktıya hazır reçete raporlaması içeren, Gümüşhane Üniversitesi **Kurumsal Kimliği**ne uygun tam kapsamlı bir Hastane Yönetim Sistemi.
+* **Repo:** [https://github.com/Quadraxx/TorulMYOHastane](https://github.com/Quadraxx/TorulMYOHastane)
+
+#### **2. Flask Note Tracker**
+* **Açıklama:** Python Flask tabanlı basit bir not takip uygulaması. Backend ve veritabanı etkileşimi pratiği için geliştirilmiştir.
+* **Repo:** [https://github.com/Quadraxx/flask-note-tracker](https://github.com/Quadraxx/flask-note-tracker)
 
 ---
 
-<p align="center">Sürekli öğreniyor ve kodluyorum.</p>
+<p align="center">Sürekli öğreniyor, kodluyor ve yeni teknolojilere adapte oluyorum. 💡</p>
+
+***
+
+### 📬 Benimle İletişime Geçin
+* **LinkedIn/Web Siteniz** (Buraya kendi LinkedIn veya kişisel web sitenizin bağlantısını ekleyebilirsiniz.)
+* **E-posta:** [Hüseyin Akın'a ulaşmak için tıklayın](husohusom8@gmail.com)
