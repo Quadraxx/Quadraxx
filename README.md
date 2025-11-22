@@ -11,7 +11,7 @@
 
 ### 🌟 Beni Tanıyın
 <p align="left">
-Ben **18 yaşındayım** ve güneşli **Denizli**'den geliyorum ☀️. Kariyerimi **Yazılım Geliştirme** alanına adadım ve eğitimime Gümüşhane Üniversitesi **Torul Meslek Yüksekokulu**'nda devam ediyorum. Temel odağım; **Flask** ile güçlü backend mimarileri kurmak, **Microsoft SQL Server** ile kurumsal veri güvenliğini sağlamak ve projelerime profesyonel bir kurumsal kimlik kazandırmaktır. 
+Ben **18 yaşındayım** ve güneşli **Denizli**'den geliyorum ☀️. Kariyerimi **Yazılım Geliştirme** alanına adadım ve eğitimime Gümüşhane Üniversitesi **Torul Meslek Yüksekokulu**'nda devam ediyorum. Temel odağım; **Flask** ile güçlü backend mimarileri kurmak, **Microsoft SQL Server** ile veri güvenliğini sağlamak ve projelerime profesyonel bir kurumsal kimlik kazandırmaktır. 
 </p>
 
 ---
@@ -75,7 +75,7 @@ Projelerimi hayata geçirirken kullandığım temel teknolojiler ve yetkinlikler
   <a href="https://github.com/Quadraxx/flask-note-tracker" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Quadraxx&repo=flask-note-tracker&theme=radical" alt="Flask Note Tracker Repo" />
   </a>
-  </p>
+</p>
 
 ---
 
@@ -104,7 +104,5 @@ Projelerimi hayata geçirirken kullandığım temel teknolojiler ve yetkinlikler
 | **GitHub** | Aktif Kodlama | [https://github.com/Quadraxx](https://github.com/Quadraxx) |
 | **E-posta** | Hızlı Dönüş | **[husohusom8@gmail.com](mailto:husohusom8@gmail.com)** |
 | **LinkedIn** | Ağ Oluşturma | [LinkedIn profil bağlantınız buraya gelecek] |
-
-<p align="center">
-  ✨ **Sürekli öğreniyor, kodluyor ve yeni teknolojilere adapte oluyorum!** Hadi bağlantı kuralım! 👋
-</p>
+| **Aktivite** | Commit Takvimi | <img src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KICA8cGF0aCBkPSJNNyAyVjUiIHN0cm9rZT0iIzRhOTBlMiIgc3Ryb2tlLXdpZHRoPSIxLjUiIHN0cm9rZS1taXRlcmxpbWl0PSIxMCIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIi8+CiAgPHBhdGggZD0iTTE3IDJWNSIgc3Ryb2tlPSIjNGE5MGUyIiBzdHJva2Utd2lkdGg9IjEuNSIgc3Ryb2tlLW1pdGVybGltaXQ9IjEwIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiLz4KICA8cGF0aCBkPSJNMzUgOS4wODk5N0gyMC41IiBzdHJva2U9IiM0YTkwZTIiIHN0cm9rZS13aWR0aD0iMS41IiBzdHJva2UtbWl0ZXJsaW1pdD0iMTAiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIvPgogIDxwYXRoIGQ9Ik0yMSAxMy41VjE3QzIxIDIwIDE5LjUgMjIgMTYuNSAyMkg3LjVDNC41IDIyIDMgMjAgMyAxN1Y4LjVDMyA1LjUgNC41IDMuNSA3LjUgMy41SDE2LjVDMTkuNSAzLjUgMjEgNS41IDIxIDguNVoiIHN0cm9rZT0iIzRhOTBlMiIgc3Ryb2tlLXdpZHRoPSIxLjUiIHN0cm9rZS1taXRlcmxpbWl0PSIxMCIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIi8+CiAgPHBhdGggZD0iTTE5OTYxIDEzLjdIMTIuMDA1MSIgc3Ryb2tlPSIjNGE5MGUyIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIvPgogIDxwYXRoIGQ9Ik04LjI5MTAyIDEzLjdIOC4zMDAwMSIgc3Ryb2tlPSIjNGE5MGUyIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIvPgogIDxwYXRoIGQ9Ik04LjI5MTAyIDE3LjdIOC4zMDAwMSIgc3Ryb2tlPSIjNGE5MGUyIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIvPgo8L3N2Zz4K" alt="Takvim" width="20" height="20" /> |
+| **Son Güncelleme** | Takip | <img src="https://img.shields.io/github/last-commit/Quadraxx/TorulMYOHastane?style=flat-square&color=green" alt="Son Güncelleme" /> |
