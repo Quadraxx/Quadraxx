@@ -1,10 +1,10 @@
-# Merhaba Dünya! Ben Hüseyin Akın! 🚀
+# Merhaba Dünya! Ben Hüseyin Akın! 👋
 
 <h2 align="center">🐍 Python Geliştiricisi | 💻 Web Uygulama Meraklısı | 📚 Torul MYO Öğrencisi</h2>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Quadraxx&style=flat-square&color=blue" alt="Hüseyin'in Profil Ziyaret Sayısı" />
-  <img src="https://img.shields.io/github/last-commit/Quadraxx/TorulMYOHastane?style=flat-square&label=Son%20G%C3%BCncelleme&color=green" alt="Son Güncelleme" />
+  <img src="https://img.shields.io/github/followers/Quadraxx?style=flat-square&label=Takip%C3%A7i&color=blueviolet" alt="Takipçi Sayısı" />
 </p>
 
 ---
@@ -54,8 +54,7 @@ Projelerimi hayata geçirirken kullandığım temel teknolojiler ve yetkinlikler
 
 ---
 
-### 📂 Öne Çıkan Projelerim
-En gurur duyduğum çalışmalarım:
+### 📂 Öne Çıkan Projelerim (Pinned Repos)
 
 #### 1. 🏥 TorulMYOHastane (Tam Kapsamlı Yönetim Sistemi)
 * **💡 Detay:** Python (Flask), MS SQL Server ve Gümüşhane Üniversitesi Kurumsal Kimliği kullanılarak geliştirilmiş, şifre hashleme, dinamik grafikler ve çıktıya hazır reçete raporlaması içeren kurumsal bir yönetim sistemi.
@@ -64,6 +63,19 @@ En gurur duyduğum çalışmalarım:
 #### 2. 📝 Flask Note Tracker
 * **💡 Detay:** Flask kullanarak temel veritabanı (CRUD) işlemlerini pratik etmek amacıyla geliştirilmiş, basit ve kullanıcı dostu not takip uygulaması.
 * **Repo:** [https://github.com/Quadraxx/flask-note-tracker](https://github.com/Quadraxx/flask-note-tracker)
+
+---
+
+<h3 align="center">🔥 En Çok Katkıda Bulunduğum Repolar (Top Repos)</h3>
+
+<p align="center">
+  <a href="https://github.com/Quadraxx" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Quadraxx&repo=TorulMYOHastane&theme=radical" alt="TorulMYOHastane Repo" />
+  </a>
+  <a href="https://github.com/Quadraxx" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Quadraxx&repo=flask-note-tracker&theme=radical" alt="Flask Note Tracker Repo" />
+  </a>
+  </p>
 
 ---
 
@@ -77,21 +89,22 @@ En gurur duyduğum çalışmalarım:
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Quadraxx&layout=compact&locale=tr&theme=radical&hide=html" alt="Hüseyin Akın En Çok Kullanılan Diller" />
 </p>
 
+<h3 align="center">📅 Aktivite Takvimi</h3>
+
+<p align="center">
+  <img src="https://github-calendar.xyz/calendar.svg?username=Quadraxx&theme=dark&area=true&panel=dark" alt="Hüseyin Akın GitHub Aktivite Takvimi" />
+</p>
+
 ---
 
 ### 📬 İletişim & Bağlantılar
-<p align="center">
-  <a href="mailto:husohusom8@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-posta" />
-  </a>
-  <a href="https://github.com/Quadraxx" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="LINKEDIN_ADRESINIZ_BURAYA_GELECEK" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</p>
+
+| Platform | Durum | Bağlantı |
+| :---: | :---: | :--- |
+| **GitHub** | Aktif Kodlama | [https://github.com/Quadraxx](https://github.com/Quadraxx) |
+| **E-posta** | Hızlı Dönüş | [E-posta adresiniz buraya gelecek] |
+| **LinkedIn** | Ağ Oluşturma | [LinkedIn profil bağlantınız buraya gelecek] |
 
 <p align="center">
-  **Sürekli öğreniyor, kodluyor ve yeni teknolojilere adapte oluyorum! Hadi bağlantı kuralım!** 👋
+  ✨ **Sürekli öğreniyor, kodluyor ve yeni teknolojilere adapte oluyorum!** Hadi bağlantı kuralım! 👋
 </p>
