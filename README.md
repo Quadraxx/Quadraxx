@@ -59,5 +59,4 @@ Programlama dillerinden veritabanı yönetim sistemlerine kadar geniş bir yelpa
 ***
 
 ### 📬 Benimle İletişime Geçin
-* **LinkedIn/Web Siteniz** (Buraya kendi LinkedIn veya kişisel web sitenizin bağlantısını ekleyebilirsiniz.)
 * **E-posta:** [Hüseyin Akın'a ulaşmak için tıklayın](husohusom8@gmail.com)
