@@ -1,6 +1,6 @@
 # Merhaba Dünya! Ben Hüseyin Akın! 👋
 
-<h2 align="center">🐍 Python Geliştiricisi | 💻 Web Uygulama Meraklısı | 📚 Torul MYO Öğrencisi</h2>
+<h2 align="center">🐍 Python Geliştiricisi | 💻 Web Uygulama Meraklısı | 📚 Yazılım Geliştirme Öğrencisi</h2>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Quadraxx&style=flat-square&color=blue" alt="Hüseyin'in Profil Ziyaret Sayısı" />
@@ -11,7 +11,7 @@
 
 ### 🌟 Beni Tanıyın
 <p align="left">
-Ben **18 yaşındayım** ve güneşli **Denizli**'den geliyorum ☀️. Kariyerimi **Yazılım Geliştirme** alanına adadım ve eğitimime Gümüşhane Üniversitesi **Torul Meslek Yüksekokulu**'nda devam ediyorum. Temel odağım; **Flask** ile güçlü backend mimarileri kurmak, **Microsoft SQL Server** ile veri güvenliğini sağlamak ve projelerime profesyonel bir kurumsal kimlik kazandırmaktır. 
+Ben **18 yaşındayım** ve güneşli **Denizli**'den geliyorum ☀️. Kariyerimi **Yazılım Geliştirme** alanına adadım ve eğitimime Gümüşhane Üniversitesi **Torul Meslek Yüksekokulu**'nda devam ediyorum. Temel odağım; **Flask** ile güçlü backend mimarileri kurmak, **Microsoft SQL Server** ile kurumsal veri güvenliğini sağlamak ve projelerime profesyonel bir kurumsal kimlik kazandırmaktır. 
 </p>
 
 ---
@@ -54,7 +54,7 @@ Projelerimi hayata geçirirken kullandığım temel teknolojiler ve yetkinlikler
 
 ---
 
-### 📂 Öne Çıkan Projelerim (Pinned Repos)
+### 📂 Öne Çıkan Projelerim
 
 #### 1. 🏥 TorulMYOHastane (Tam Kapsamlı Yönetim Sistemi)
 * **💡 Detay:** Python (Flask), MS SQL Server ve Gümüşhane Üniversitesi Kurumsal Kimliği kullanılarak geliştirilmiş, şifre hashleme, dinamik grafikler ve çıktıya hazır reçete raporlaması içeren kurumsal bir yönetim sistemi.
@@ -66,13 +66,13 @@ Projelerimi hayata geçirirken kullandığım temel teknolojiler ve yetkinlikler
 
 ---
 
-<h3 align="center">🔥 En Çok Katkıda Bulunduğum Repolar (Top Repos)</h3>
+<h3 align="center">🔥 En Çok Katkıda Bulunduğum Repolar</h3>
 
 <p align="center">
-  <a href="https://github.com/Quadraxx" target="_blank">
+  <a href="https://github.com/Quadraxx/TorulMYOHastane" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Quadraxx&repo=TorulMYOHastane&theme=radical" alt="TorulMYOHastane Repo" />
   </a>
-  <a href="https://github.com/Quadraxx" target="_blank">
+  <a href="https://github.com/Quadraxx/flask-note-tracker" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Quadraxx&repo=flask-note-tracker&theme=radical" alt="Flask Note Tracker Repo" />
   </a>
   </p>
@@ -102,7 +102,7 @@ Projelerimi hayata geçirirken kullandığım temel teknolojiler ve yetkinlikler
 | Platform | Durum | Bağlantı |
 | :---: | :---: | :--- |
 | **GitHub** | Aktif Kodlama | [https://github.com/Quadraxx](https://github.com/Quadraxx) |
-| **E-posta** | Hızlı Dönüş | [E-posta adresiniz buraya gelecek](husohusom8@gmail.com) |
+| **E-posta** | Hızlı Dönüş | **[husohusom8@gmail.com](mailto:husohusom8@gmail.com)** |
 | **LinkedIn** | Ağ Oluşturma | [LinkedIn profil bağlantınız buraya gelecek] |
 
 <p align="center">
