@@ -102,7 +102,7 @@ Projelerimi hayata geçirirken kullandığım temel teknolojiler ve yetkinlikler
 | Platform | Durum | Bağlantı |
 | :---: | :---: | :--- |
 | **GitHub** | Aktif Kodlama | [https://github.com/Quadraxx](https://github.com/Quadraxx) |
-| **E-posta** | Hızlı Dönüş | [E-posta adresiniz buraya gelecek] |
+| **E-posta** | Hızlı Dönüş | [E-posta adresiniz buraya gelecek](husohusom8@gmail.com) |
 | **LinkedIn** | Ağ Oluşturma | [LinkedIn profil bağlantınız buraya gelecek] |
 
 <p align="center">
