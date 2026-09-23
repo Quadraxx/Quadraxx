@@ -11,7 +11,7 @@
 
 ### 🌟 Beni Tanıyın
 <p align="left">
-Ben **19 yaşındayım** Kariyerimi **Yazılım Geliştirme** alanına adadım ve eğitimime Gümüşhane Üniversitesi **Torul Meslek Yüksekokulu**'nda devam ediyorum. Temel odağım; **Flask** ile güçlü backend mimarileri kurmak, **Microsoft SQL Server** ile kurumsal veri güvenliğini sağlamak ve projelerime profesyonel bir kurumsal kimlik kazandırmaktır. 
+Ben **19 yaşındayım** Kariyerimi **Yazılım Geliştirme** alanına adadım ve eğitimime Gümüşhane Üniversitesi **Gümüşhane Üniversitesi**'nda devam ediyorum. Temel odağım; **Flask** ile güçlü backend mimarileri kurmak, **Microsoft SQL Server** ile kurumsal veri güvenliğini sağlamak ve projelerime profesyonel bir kurumsal kimlik kazandırmaktır. 
 </p>
 
 ---
