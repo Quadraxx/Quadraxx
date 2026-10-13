@@ -79,7 +79,7 @@ Projelerimi hayata geçirirken kullandığım temel teknolojiler ve yetkinlikler
 
 ---
 
-<h3 align="center">🗓️ Yarınki Plan (Pazar, 23 Kasım 2025)</h3>
+<h3 align="center">🗓️ Yarınki Plan (Pazar, 14 Ekim 2026)</h3>
 
 <p align="left">
 Yarınki gelişim ve kodlama hedeflerim:
